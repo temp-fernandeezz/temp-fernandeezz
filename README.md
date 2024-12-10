@@ -1,11 +1,10 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=3419e8&height=120&section=header" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=&weight=500&size=30&pause=1000&color=8C4E81&center=true&width=456&lines=Hello+my+name+is+Fernanda+Fernandes)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=&weight=600&size=50&pause=1000&color=8C4E81&center=true&width=456&lines=Hello+my+name+is+Fernanda+Fernandes)](https://git.io/typing-svg)
 
 
 • 📚 Systems Analysis and Development - Faculdade de Tecnologia de Ferraz de Vasconcelos
 
-• 📧 kaueloviz04@gmail.com
+• 📧 fernanda.nac09@gmail.com
 
 
 <div align="center">
